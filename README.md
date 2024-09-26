@@ -33,7 +33,7 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/PoojaR-17/Personal-Portfolio-Website.git
+   git clone https://github.com/PoojaR-17/Responsive_Protfolio.git
 
 2.	Navigate to the project directory:
 bash
