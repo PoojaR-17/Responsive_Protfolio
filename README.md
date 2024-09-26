@@ -43,7 +43,7 @@ cd your-repo-name
 File Structure
 bash
 Copy code
-/Personal-Portfolio-Website
+/Responsive_Protfolio
 
 ├── index.html
 ├── styles.css
